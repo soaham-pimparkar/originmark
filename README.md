@@ -1,5 +1,9 @@
 For ppt: https://drive.google.com/file/d/18GPQQnxuMIAsWVKR68W7baXP_-EfNxQU/view?usp=sharing
 
+# OriginMark
+
+### Abstract:
+
 Copyright infringement and disputes over the rightful owner of an Intellectual property are very common. IPs are not always registered and the Indian Copyright Act 1957 grants a default copyright to the creator upon creation of the IP.
 
 ![Screenshot 2024-06-01 165909](https://github.com/soaham-pimparkar/originmark/assets/113767354/4e8a29f1-ebda-435d-8a07-efcbd0572d6a)
